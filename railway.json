@@ -1,0 +1,12 @@
+{
+    "startCommand": "python app.py",
+    "rootDirectory": ".",
+    "envs": [],
+    "services": [
+      {
+        "name": "redirect",
+        "port": 8080
+      }
+    ]
+  }
+  
